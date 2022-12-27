@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/nye-tips/static/css/main.073c9b0a.css",
+    "main.js": "/nye-tips/static/js/main.50d697f3.js",
+    "static/js/787.2ea8df63.chunk.js": "/nye-tips/static/js/787.2ea8df63.chunk.js",
+    "static/media/logo.svg": "/nye-tips/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/nye-tips/index.html",
+    "main.073c9b0a.css.map": "/nye-tips/static/css/main.073c9b0a.css.map",
+    "main.50d697f3.js.map": "/nye-tips/static/js/main.50d697f3.js.map",
+    "787.2ea8df63.chunk.js.map": "/nye-tips/static/js/787.2ea8df63.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.50d697f3.js"
+  ]
+}
