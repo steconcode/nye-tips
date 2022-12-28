@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/nye-tips/static/css/main.0f9d3f9c.css",
-    "main.js": "/nye-tips/static/js/main.94e9ae42.js",
+    "main.css": "/nye-tips/static/css/main.d06c0a3a.css",
+    "main.js": "/nye-tips/static/js/main.fd02da8b.js",
     "static/js/787.2ea8df63.chunk.js": "/nye-tips/static/js/787.2ea8df63.chunk.js",
     "static/media/Art-nuvo.otf": "/nye-tips/static/media/Art-nuvo.5ec1396b980da3861558.otf",
     "index.html": "/nye-tips/index.html",
-    "main.0f9d3f9c.css.map": "/nye-tips/static/css/main.0f9d3f9c.css.map",
-    "main.94e9ae42.js.map": "/nye-tips/static/js/main.94e9ae42.js.map",
+    "main.d06c0a3a.css.map": "/nye-tips/static/css/main.d06c0a3a.css.map",
+    "main.fd02da8b.js.map": "/nye-tips/static/js/main.fd02da8b.js.map",
     "787.2ea8df63.chunk.js.map": "/nye-tips/static/js/787.2ea8df63.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0f9d3f9c.css",
-    "static/js/main.94e9ae42.js"
+    "static/css/main.d06c0a3a.css",
+    "static/js/main.fd02da8b.js"
   ]
 }
