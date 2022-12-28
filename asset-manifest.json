@@ -1,22 +1,16 @@
 {
   "files": {
-    "main.css": "/nye-tips/static/css/main.5bff7c60.css",
-    "main.js": "/nye-tips/static/js/main.ee78e19a.js",
+    "main.css": "/nye-tips/static/css/main.7f16575a.css",
+    "main.js": "/nye-tips/static/js/main.94e9ae42.js",
     "static/js/787.2ea8df63.chunk.js": "/nye-tips/static/js/787.2ea8df63.chunk.js",
-    "static/media/BettyWetter.png": "/nye-tips/static/media/BettyWetter.69328f06c5ee93b1c638.png",
-    "static/media/Moscato.png": "/nye-tips/static/media/Moscato.1767b89a2cdfdb137678.png",
-    "static/media/MissTexas.png": "/nye-tips/static/media/MissTexas.c1bad3b637e169780415.png",
-    "static/media/DjDarkWiley.png": "/nye-tips/static/media/DjDarkWiley.f6fa493d461769f95aaa.png",
-    "static/media/QueenAndrew.png": "/nye-tips/static/media/QueenAndrew.caf6d03f2e8da906c783.png",
-    "static/media/DjAuntJoody.png": "/nye-tips/static/media/DjAuntJoody.6c4ab2f7e5055485d889.png",
     "static/media/Art-nuvo.otf": "/nye-tips/static/media/Art-nuvo.5ec1396b980da3861558.otf",
     "index.html": "/nye-tips/index.html",
-    "main.5bff7c60.css.map": "/nye-tips/static/css/main.5bff7c60.css.map",
-    "main.ee78e19a.js.map": "/nye-tips/static/js/main.ee78e19a.js.map",
+    "main.7f16575a.css.map": "/nye-tips/static/css/main.7f16575a.css.map",
+    "main.94e9ae42.js.map": "/nye-tips/static/js/main.94e9ae42.js.map",
     "787.2ea8df63.chunk.js.map": "/nye-tips/static/js/787.2ea8df63.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5bff7c60.css",
-    "static/js/main.ee78e19a.js"
+    "static/css/main.7f16575a.css",
+    "static/js/main.94e9ae42.js"
   ]
 }
