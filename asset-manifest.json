@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/nye.stecon.me/static/css/main.2fba6cba.css",
-    "main.js": "/nye.stecon.me/static/js/main.bb595e54.js",
+    "main.js": "/nye.stecon.me/static/js/main.82236aa5.js",
     "static/js/787.2ea8df63.chunk.js": "/nye.stecon.me/static/js/787.2ea8df63.chunk.js",
     "static/media/Art-nuvo.otf": "/nye.stecon.me/static/media/Art-nuvo.5ec1396b980da3861558.otf",
     "index.html": "/nye.stecon.me/index.html",
     "main.2fba6cba.css.map": "/nye.stecon.me/static/css/main.2fba6cba.css.map",
-    "main.bb595e54.js.map": "/nye.stecon.me/static/js/main.bb595e54.js.map",
+    "main.82236aa5.js.map": "/nye.stecon.me/static/js/main.82236aa5.js.map",
     "787.2ea8df63.chunk.js.map": "/nye.stecon.me/static/js/787.2ea8df63.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2fba6cba.css",
-    "static/js/main.bb595e54.js"
+    "static/js/main.82236aa5.js"
   ]
 }
